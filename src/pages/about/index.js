@@ -6,6 +6,7 @@ import {
   dataabout,
   meta,
   worktimeline,
+  education,
   skills,
   services,
 } from "../../content_option";
